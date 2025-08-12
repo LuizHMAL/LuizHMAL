@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuizHMAL
-- 👀 I’m interested in learn.
-- 🌱 I’m currently learning about some frameworks.
-- 💞️ I’m looking to collaborate on open projects.
+- 👀 I’m a software developer at Visão Jr.
+- 🌱 I’m currently trying to reach higher levels on my carreer.
 - 📫 How to reach me: email: leite.luizhenrique94@gmail.com.
 
 <!---
