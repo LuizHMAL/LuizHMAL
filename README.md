@@ -53,7 +53,7 @@ I'm actively working toward advancing my career and securing my **first professi
 ## 📫 How to Reach Me
 
 - ✉️ **Email:** leite.luizhenrique94@gmail.com  
-- 💼 **LinkedIn:** *(add your link here if you want)*  
+- 💼 **LinkedIn:** www.linkedin.com/in/luiz-henrique-meira-andrade-leite-23a9b1205
 - 🌐 **Portfolio:** https://mypage-ivory.vercel.app/
 
 ---
