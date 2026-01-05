@@ -21,6 +21,7 @@ I'm actively working toward advancing my career and securing my **first professi
 - 💅 **HTML, CSS, JavaScript, TypeScript**
 - ⚡ **Vite**
 - 🎨 Responsive layouts and UI improvements
+- 🎨 Bootstrap && Materialize
 
 ### Back-end
 - 🐍 **Python** (FastAPI)
